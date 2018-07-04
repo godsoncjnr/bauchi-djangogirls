@@ -4630,7 +4630,7 @@ tbody.collapse.show {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: #fff;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  /*border-bottom: 1px solid rgba(0, 0, 0, 0.12);*/
 }
 
 .card-header:first-child {
@@ -16174,7 +16174,7 @@ footer .pull-center {
   margin-right: 15px;
   margin-top: -30px;
   border: 0;
-  background: linear-gradient(60deg, #eee, #bdbdbd);
+  /*background: linear-gradient(60deg, #eee, #bdbdbd);*/
 }
 
 .card .card-header .title {
