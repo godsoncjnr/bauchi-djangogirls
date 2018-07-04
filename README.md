@@ -1,1 +1,1 @@
-# bauchi-djangogirls
+# bauchi-pyladies
